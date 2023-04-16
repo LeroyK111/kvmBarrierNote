@@ -2,5 +2,6 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "readme.assets",
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "relative"
 }

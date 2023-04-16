@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "725f989f2ef771b8",
+        "id": "f42529dca014ea48",
         "type": "tabs",
         "children": [
           {
-            "id": "6751a340e90fc7e2",
+            "id": "162e59fc66068358",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5107e29bacbb0d53",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,20 +138,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d89b111e6bc5136a",
+  "active": "162e59fc66068358",
   "lastOpenFiles": [
+    "README.md",
     "readme.assets/Pasted image 20230416171307.png",
     "readme.assets/Pasted image 20230416171014.png",
     "readme.assets/Pasted image 20230416165805.png",
     "readme.assets/Pasted image 20230416165515.png",
     "readme.assets/Pasted image 20230416165315.png",
     "readme.assets/Pasted image 20230416165015.png",
-    "README.md",
     "readme.assets/Pasted image 20230416164401.png",
     "readme.assets/Pasted image 20230416164159.png",
     "readme.assets/Pasted image 20230416163352.png",
     "readme.assets/Pasted image 20230416152454.png",
-    "readme.assets/Pasted image 20230416142106.png",
     "readme.assets"
   ]
 }

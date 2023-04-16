@@ -3,9 +3,13 @@
 键鼠跨屏方案，我在个人开发过程中非常常用，常用的方案是barrier，当然这里我也会推荐其他方案。
 虚拟软件kvm：
 barrier:  https://github.com/debauchee/barrier
+
 synergy(收费):  https://symless.com/synergy
+
 sharemouse: https://www.sharemouse.com/
+
 inputDirector: https://alternativeto.net/software/input-director/about/
+
 multiplicity: https://alternativeto.net/software/multiplicity/about/
 
 论坛网站：https://alternativeto.net/software/mouse-without-borders2/
@@ -16,7 +20,6 @@ kvm硬件切换器，一套键鼠，通过控制器的按钮进行切换。
 
 ## barrier使用方式
 这里我们以barrier举例，使用mac和windows进行键鼠跨屏配置。
-
 
 ### 安装下载
 ![](Pasted%20image%2020230416141504.png)
